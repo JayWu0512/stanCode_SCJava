@@ -1,3 +1,8 @@
+// This program finds the best matching DNA subsequence.
+// Users input a long DNA sequence and a short DNA segment.
+// The program finds the most similar part of the long sequence
+// using a sliding window approach and prints the best match.
+
 import java.util.*;
 
 public class Similarity{
